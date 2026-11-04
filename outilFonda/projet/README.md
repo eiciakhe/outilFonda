@@ -9,9 +9,9 @@ Ce projet reprend le sujet du **grand oral de physique-chimie** d'Éline Iciakhe
 jours ? »). Le sujet étant conséquent, nous nous sommes appuyées sur ses
 recherches, ses calculs et ses questionnements pour être plus productives.
 
-Éline avait conclu « probablement non » avec des calculs à la main et des
-valeurs fixes. Ici, on refait l'étude **avec du code**, pour 30 km
+J'avais comclu que ce n'était pas possible. Ici, on refait l'étude **avec du code**, pour 30 km
 (maison → IUT), et on vérifie si la conclusion tient toujours.
+May étant beaucoup plus à l'aise avec les scripts, a jouée un grand rôle au niveau de la mise en oeuvre de ce projet.
 
 ## Lien avec le module
 
