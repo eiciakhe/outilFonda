@@ -41,7 +41,7 @@ de Franky Zapata ou le Martin Jetpack. Elles ont été reprises et vérifiées p
 May Hlaoui. Les lignes marquées « hypothèse » sont de nous, et toutes les
 hypothèses sont rassemblées en fin de document.
 
-## Comment lancer (depuis la racine du dépôt)
+## Comment lancer (depuis le dossier outilFonda)
 
 ```
 python3 -m pip install matplotlib
